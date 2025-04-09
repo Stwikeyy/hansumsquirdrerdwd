@@ -1,6 +1,7 @@
 # hansumsquirdrerdwd
 
-vibrator
+handsome squidward vibrator
+
 1 Button
 1 Potention
 1 Capcitor 
